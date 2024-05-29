@@ -281,6 +281,28 @@ main {
 }
 
 
+
+
+/* =--------- Footer Section ---------= */
+
+footer {
+    background-color: #270C03;
+    min-height: 150px;
+    padding: 1rem;
+}
+
+.div-logo-footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.p-footer {
+    color: white;
+    margin: 1rem;
+}
+
+
 /* ------ Responsive header ------   */
 @media screen and (max-width: 871px) {
 
